@@ -1,3 +1,5 @@
+# Download APK from the Release Section
+
 # 📦 Store Manager
 
 Store Manager is an offline-first mobile application built for shop owners and small businesses to manage inventory, billing, expenses, profit tracking, and multiple stores from a single device.
